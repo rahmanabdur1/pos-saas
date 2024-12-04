@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import Sidebar from "../../Compoents/Shared/Sidebar";
+import Sidebar from "../../Components/Shared/Sidebar";
 import { useState } from "react";
 
 const Navbar = () => {

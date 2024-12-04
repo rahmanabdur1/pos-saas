@@ -1,8 +1,8 @@
 "use client"
 
 import { store } from "@/redux/store";
-import Header from "../Compoents/Shared/Header";
-import Sidebar from "../Compoents/Shared/Sidebar";
+import Header from "../Components/Shared/Header";
+import Sidebar from "../Components/Shared/Sidebar";
 import { Provider } from 'react-redux';
 
 
